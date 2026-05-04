@@ -58,6 +58,8 @@ The packaged workbook containing the visualizations shown above is attached to t
 
 ## Sources
 
+Sex Differences in Substance Use - National Institute on Drug Abuse (https://nida.nih.gov/publications/research-reports/substance-use-in-women/sex-differences-in-substance-use)
+
 Recognizing Black and Latino-majority cities is the first step to finding a real world Wakanda - Brookings Research Organization (https://www.brookings.edu/articles/recognizing-black-and-latino-majority-cities-is-the-first-step-to-finding-a-real-world-wakanda/#:~:text=There%20is%20a%20value%20in,and%20Latino%20or%20Hispanic%20residents)
 
 The History of Methadone and Barriers to Access for Different Populations - National Library of Medicine (https://www.ncbi.nlm.nih.gov/books/NBK585210/)
